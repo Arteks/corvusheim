@@ -1,0 +1,161 @@
+- manifestVersion: 1
+  name: denikson-BepInExPack_Valheim
+  authorName: denikson
+  websiteUrl: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/
+  displayName: BepInExPack_Valheim
+  description: BepInEx pack for Valheim. Preconfigured and includes unstripped Unity DLLs.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1744467224399
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2202
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\Valheim\cache\denikson-BepInExPack_Valheim\5.4.2202\icon.png
+- manifestVersion: 1
+  name: Neobotics-HUDCompass
+  authorName: Neobotics
+  websiteUrl: https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/
+  displayName: HUDCompass
+  description: A Heads Up Display compass with map pins and dynamic markers for
+    Ships, Carts and Portals
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1744468745331
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Neobotics-HUDCompass\icon.png
+- manifestVersion: 1
+  name: shudnal-MyLittleUI
+  authorName: shudnal
+  websiteUrl: https://thunderstore.io/c/valheim/p/shudnal/MyLittleUI/
+  displayName: MyLittleUI
+  description: Bunch of little UI tweaks. Tooltips for production timers, player
+    status, items. Custom chest names, buff list, multicraft, weather forecast
+    and so on.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1744468756339
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 34
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\shudnal-MyLittleUI\icon.png
+- manifestVersion: 1
+  name: Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock
+  authorName: Goldenrevolver
+  websiteUrl: https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/
+  displayName: Quick_Stack_Store_Sort_Trash_Restock
+  description: Quick Stacking, Sorting, Trashing and more in one cohesive package
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1744468807441
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 13
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock\icon.png
+- manifestVersion: 1
+  name: BetterUI_ForeverMaintained-BetterUI_ForeverMaintained
+  authorName: BetterUI_ForeverMaintained
+  websiteUrl: https://thunderstore.io/c/valheim/p/BetterUI_ForeverMaintained/BetterUI_ForeverMaintained/
+  displayName: BetterUI_ForeverMaintained
+  description: BetterUI once again fixed up for the masses. This time, it won't be
+    abandoned.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1744469090338
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 5
+    patch: 8
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\BetterUI_ForeverMaintained-BetterUI_ForeverMaintained\icon.png
+- manifestVersion: 1
+  name: Advize-PlantEasily
+  authorName: Advize
+  websiteUrl: https://thunderstore.io/c/valheim/p/Advize/PlantEasily/
+  displayName: PlantEasily
+  description: Allows you to plant evenly spaced crops, either one at a time or in
+    any amount of rows and columns, with grid snapping features and invalid crop
+    placement prevention. Harvest in bulk and optionally auto replant crops.
+    Configurable and supports gamepad.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1744584098610
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Advize-PlantEasily\icon.png
+- manifestVersion: 1
+  name: Azumatt-Build_Camera_Custom_Hammers_Edition
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/Build_Camera_Custom_Hammers_Edition/
+  displayName: Build_Camera_Custom_Hammers_Edition
+  description: Adds a build camera to your vanilla and custom hammers. Taken over
+    from the original mod by Azumatt.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1744638852040
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 7
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Azumatt-Build_Camera_Custom_Hammers_Edition\1.2.7\icon.png
